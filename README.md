@@ -40,6 +40,7 @@ particleb.speed = 0.7
 particler.speed = 1                              
 ```
 
+A possible improvement could be a 3-D rendering.
 
 ## Help
 
