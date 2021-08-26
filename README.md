@@ -49,7 +49,7 @@ Make sure you have installed all dependencies and that all four files are in the
 
 ## License
 
-This project is licensed under the Unlicense - see the LICENSE.md file for details
+This project is licensed under The Unlicense - see the LICENSE.md file for details
 
 ## Version History
 
