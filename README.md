@@ -1,6 +1,6 @@
 # Maxwell's Demon
 
-This repository builds a visualization of the Maxwell's Demon using Pygame.
+This repository builds a visualization of Maxwell's Demon using Pygame.
 
 ## Description
 
