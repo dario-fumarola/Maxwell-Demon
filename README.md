@@ -47,6 +47,9 @@ A possible improvement could be a 3-D rendering.
 
 Make sure you have installed all dependencies and that all four files are in the same folder
 
+## License
+
+This project is licensed under the Unlicense - see the LICENSE.md file for details
 
 ## Version History
 
